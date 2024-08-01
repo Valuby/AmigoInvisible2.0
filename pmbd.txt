@@ -1,0 +1,12 @@
+dni integer primary key
+apenom text
+colegio text
+nromesa integer
+
+create table votos (dni integer primary key, apenom text, colegio text, nromesa integer)
+
+insert into votos (dni, apenom, colegio, nromesa)
+
+"dni integer primary key," + "apenom text," + "colegio text," + "nromesa integer,"
+
+create table votos
